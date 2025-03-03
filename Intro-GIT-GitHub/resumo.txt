@@ -1,0 +1,2 @@
+Git é um sistema de controle de versão distribuído que permite rastrear mudanças no código-fonte de um projeto. GitHub é uma plataforma baseada na nuvem que hospeda repositórios Git, facilitando a colaboração entre desenvolvedores.
+Um repositório Git pode estar localmente no seu computador ou hospedado remotamente, como no GitHub. Ele armazena o histórico de alterações e permite que múltiplos desenvolvedores trabalhem simultaneamente sem sobrescrever o código uns dos outros.
